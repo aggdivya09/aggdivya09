@@ -2,4 +2,6 @@
 
 [![Divya's GitHub stats](https://github-readme-stats.vercel.app/api?username=aggdivya09&theme=radical)](https://github.com/aggdivya09/github-readme-stats)
 
+![](https://komarev.com/ghpvc/?username=aggdivya09&color=green)
+
 
