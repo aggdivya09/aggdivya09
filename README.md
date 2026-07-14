@@ -1,8 +1,13 @@
-# 💫 About Me:
-🌱I'm currently  learning : Data Structures & Algorithms (DSA), Java, and Frontend Web Development (HTML, CSS, JavaScript).
-💻I'm working on: Beginner-friendly projects to improve my coding and problem-solving skills.
-🤝Looking for collaborate.
-✨Always curious to learn new technologies.
+# Hi there, I'm Divya Agarwal 👋
+
+🎓 B.Tech Computer Science Engineering Student at **Graphic Era Hill University, Dehradun**
+
+💻 Passionate about **Software Development, Web Development, Data Structures & Algorithms, AI, and Cloud Computing.**
+
+🚀 I love building projects, learning modern technologies, and solving real-world problems through code.
+
+---
+
 
 
 ## 🌐 Socials:
